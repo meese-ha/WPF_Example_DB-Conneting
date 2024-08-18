@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Example_DB Conneting", "WPF_Example_DB Conneting\WPF_Example_DB Conneting.csproj", "{3C2319C2-E2C5-45DD-A18F-2B06FFB9C3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2319C2-E2C5-45DD-A18F-2B06FFB9C3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2319C2-E2C5-45DD-A18F-2B06FFB9C3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2319C2-E2C5-45DD-A18F-2B06FFB9C3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2319C2-E2C5-45DD-A18F-2B06FFB9C3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEAAF5C-DB19-4345-8C6F-C2B4DC2DB7AD}
+	EndGlobalSection
+EndGlobal
